@@ -7,10 +7,10 @@ Client uses [system hook][1] to generate events.
 
 Technologies
 --------------
--Bootstrap
--CSS
--HTML
--Java
--JavaScript
--PHP
--SQL
+- Bootstrap
+- CSS
+- HTML
+- Java
+- JavaScript
+- PHP
+- SQL
